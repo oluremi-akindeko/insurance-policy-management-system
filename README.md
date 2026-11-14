@@ -2,13 +2,13 @@
 
 ## Project Overview
 
-This project is a Python-based insurance policy management system developed as a milestone assignment using concepts from Modules 1 through 3. The system manages policyholders, insurance products, and payments through separate object-oriented classes.
+This project is a Python-based insurance policy management system developed as part of a Master of Science in Data Analytics milestone assignment. The system manages policyholders, insurance products, and payments through separate object-oriented classes.
 
 Policy managers can use the system to register, suspend, and reactivate policyholders; create, update, suspend, reactivate, and remove insurance products; process full or partial payments; send payment reminders; and apply penalties to unpaid payments.
 
 The final demonstration creates two policyholders who purchase and fully pay for the same insurance product. Their complete account details are then displayed.
 
-## Assignment Requirements
+## Project Requirements
 
 The project addresses the following requirements:
 
